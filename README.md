@@ -1,6 +1,5 @@
+# Predictive Modeling Machine Learning Project
 **Mohammad** **Samir** **Rajani**
-
-**202315691**
 
 **COMP3202:** **PROJECT** **EXPLANATION**
 
